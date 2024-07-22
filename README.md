@@ -4,7 +4,7 @@
   <img decoding="async" src="https://media.giphy.com/media/9lli2TQ2NsFtTMBNyE/giphy.gif" width="480"/>
 </div>
 
-This dataset 📊 provides insights into factors influencing hiring decisions. Each record represents a candidate with various attributes considered during the hiring process. 
+This small dataset 📊 provides insights into factors influencing hiring decisions. Each record represents a candidate with various attributes considered during the hiring process. 
 
 I used three models with imbalanced, oversampling, and undersampling data, and evaluated them using the F1 score metric.
 With these models, we can get an idea of whether a candidate is good or not.👌
